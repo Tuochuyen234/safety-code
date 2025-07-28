@@ -1,6 +1,6 @@
 {
-  "name": "QR Safety",
-  "short_name": "QR Safety",
+  "name": "工作空间",
+  "short_name": "工作空间",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1b1b2f",
